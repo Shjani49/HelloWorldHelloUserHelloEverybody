@@ -7,3 +7,5 @@ This is my first C# Console application. It is not for distribution and I am not
 * .exe must be delivered to client
 * Source code must be delivered to client
 * Maintenance and new features to be handled by client’s nephew.
+
+https://trello.com/b/xXjco5Ci/c-introduction-hello-worldhello-user-hello-everyone
